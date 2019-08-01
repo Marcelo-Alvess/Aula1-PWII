@@ -1,0 +1,2 @@
+let message: string = "Alô World"
+console.log(message)                                                                                                                                                                                               
